@@ -111,6 +111,12 @@
   background-image: url(../images/background_recipes.svg);
 }
 
+.recipes__iframe {
+  height: 273px;
+  width: 480px;
+  border: 0;
+}
+
 .recipes__title {
   margin: 0 0 24px;
   font-family: "Inter", Arial, sans-serif;
